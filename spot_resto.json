@@ -1,1 +1,6 @@
-{aloow:https://belvarior.my.id/shopee_api.php
+{
+    "allow": [
+        "https://belvarior.my.id/shopee_api.php",
+        "https://devacro.xyz/shopee_api.php"
+    ]
+}
